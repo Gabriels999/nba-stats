@@ -1,0 +1,24 @@
+(OBJETO)			LEAGUE 
+(ARRAY)		  CONF. LESTE		CONF. OESTE 
+(ARRAY)		TIMES LESTE		TIMES OESTE
+(OBJETOS)	LINE-UP			LINE-UP
+
+
+================================================================
+(x) Verificar os 3 melhores:
+(x) Completar com o restante dos times da conf Leste
+
+
+
+
+================================================================
+			REGRAS DE NEGÓCIO
+================================================================
+ Um site sobre NBA que mostra na tela:
+- Os símbolos dos times divididos por conferência.
+- Ao clicar no time, o site informa os stats "posição, ppg, V e D", em formato card. Além disso um botão para ver os jogadores e suas fotos.
+- Filtro para mostrar o campeão.
+- Filtro para mostrar o lanterna.
+- Filtro para mostrar os 3 melhores.
+- Filtro para mostrar os 3 piores.
+- Filtro para mostrar os 3 times que mais pontuaram.
